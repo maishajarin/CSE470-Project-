@@ -1,5 +1,4 @@
 **Telemedicine Website with E-commerce Integration**
-<br>
 
 **Directory 1: User Management**
 1. User Registration and Login
